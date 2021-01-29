@@ -19,9 +19,7 @@
         clickMeButton.addEventListener("click", ()=>
         {
             console.log("Click Me Button was clicked!");
-        }); 
-        
-        */
+        });
       
     }
 

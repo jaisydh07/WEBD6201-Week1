@@ -13,15 +13,6 @@
         $("#clickMeButton").on("click", function() {
             console.log("Click Me Button was clicked!")
         });
-
-        /* let clickMeButton = document.getElementById("clickMeButton");
-
-        clickMeButton.addEventListener("click", ()=>
-        {
-            console.log("Click Me Button was clicked!");
-        }); 
-        
-        */
       
     }
 
